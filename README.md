@@ -1,6 +1,6 @@
 ## Description
 
-This repository contains supplementary code for Challenges 3 and 4 of team Uniofbathtopia's entry for the EVA 2023 Data Challenge [1].
+This repository contains supplementary code for Challenges 3 and 4 of team Uniofbathtopia's entry for the EVA 2023 Data Challenge [1]. A preprint of the paper is available at LINK HERE.
 
 ## Structure
 
