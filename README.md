@@ -1,6 +1,6 @@
 ## Description
 
-This repository contains supplementary code for Challenges 3 and 4 of team Uniofbathtopia's entry for the EVA 2023 Data Challenge [1]. A preprint of the paper is available at LINK HERE.
+This repository contains supplementary code for Challenges 3 and 4 of team Uniofbathtopia's entry [1] for the EVA 2023 Data Challenge [2]. 
 
 ## Structure
 
@@ -20,4 +20,5 @@ Email: <mtp34@bath.ac.uk>
 
 ## References
 
-[1] Rohrbeck, C., Simpson, E.S., Tawn, J.A.: Editorial: EVA 2023 data challenge (2023)
+[1] Elsom, H., Pawley, M.: Extreme Value Statistics for Analysing Simulated Environmental Extremes (2023+). Preprint at <https://arxiv.org/abs/2312.13725>. \
+[2] Rohrbeck, C., Simpson, E.S., Tawn, J.A.: Editorial: EVA 2023 data challenge (2023)
